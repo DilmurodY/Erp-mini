@@ -1,0 +1,16 @@
+export const filter = {
+    id: "",
+    search: "",
+    founder_id: null,
+    start_date: '',
+    operation_type_id: null,
+    investment_type_id: null,
+    output_type_id: null,
+    total_price: '',
+    currency_id: null,
+    rate: '',
+    from_date: '',
+    to_date: '',
+    created_at: '',
+    updated_at: '',
+};
